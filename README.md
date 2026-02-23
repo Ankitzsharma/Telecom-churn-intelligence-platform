@@ -142,7 +142,7 @@ graph TD
 
 ### Step 1: Clone & Setup
 ```bash
-git clone https://github.com/yourusername/telecom-churn-analytics.git
+git clone https://github.com/Ankitzsharma/Telecom-churn-intelligence-platform.git
 cd telecom-churn-analytics
 pip install -r requirements.txt
 ```
@@ -218,6 +218,11 @@ Contributions are welcome! Please fork the repository and submit a Pull Request.
 5.  Open a Pull Request
 
 ---
+## ⚠️ Limitations
+
+- Model trained on historical telecom dataset.
+- Performance may vary across different industries.
+- Requires periodic retraining for production use.
 
 ## 📄 License
 
