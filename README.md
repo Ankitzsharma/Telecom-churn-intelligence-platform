@@ -1,10 +1,24 @@
 # 📡 Telecom Customer Intelligence Platform (Pro v2.0)
 
+## 🌐 Live Demo
+
+[https://telecom-churn-intelligence-platform.streamlit.app/](https://telecom-churn-intelligence-platform.streamlit.app/)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FLAMA?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📸 Dashboard Preview
+
+| Executive Overview | Customer Segmentation |
+| --- | --- |
+| ![Executive Dashboard](assets/Executive-dashboard.png) | ![Customer Segmentation](assets/Customer-segmentation.png) |
+
+| Financial Impact Simulator | Model Explainability |
+| --- | --- |
+| ![Financial Impact](assets/Financial-impact.png) | ![Model Explainability](assets/Model-explainability.png) |
 
 ## 📋 Executive Summary
 
