@@ -1,0 +1,56 @@
+2026-02-23 21:11:32,876 - __main__ - INFO - Starting Customer Segmentation & Churn Risk Modeling System
+2026-02-23 21:11:32,884 - __main__ - INFO - Step 1: Loading and Validating Data
+2026-02-23 21:11:33,291 - __main__ - INFO - Step 2: Cleaning Data
+2026-02-23 21:11:33,499 - __main__ - INFO - Step 3: Feature Engineering
+2026-02-23 21:11:34,581 - __main__ - INFO - Step 4: Customer Segmentation
+2026-02-23 21:11:36,279 - __main__ - INFO - Step 5: Encoding Data for Modeling
+2026-02-23 21:11:36,445 - __main__ - INFO - Columns after encoding: ['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'PaperlessBilling', 'MonthlyCharges', 'TotalCharges', 'Churn', 'EngagementScore', 'RecencyProxy', 'RevenueIntensity', 'ContractRiskScore', 'EstimatedCLV', 'Cluster', 'MultipleLines_No phone service', 'MultipleLines_Yes', 'InternetService_Fiber optic', 'InternetService_No', 'OnlineSecurity_No internet service', 'OnlineSecurity_Yes', 'OnlineBackup_No internet service', 'OnlineBackup_Yes', 'DeviceProtection_No internet service', 'DeviceProtection_Yes', 'TechSupport_No internet service', 'TechSupport_Yes', 'StreamingTV_No internet service', 'StreamingTV_Yes', 'StreamingMovies_No internet service', 'StreamingMovies_Yes', 'Contract_One year', 'Contract_Two year', 'PaymentMethod_Credit card (automatic)', 'PaymentMethod_Electronic check', 'PaymentMethod_Mailed check', 'CustomerValueSegment_Low', 'CustomerValueSegment_Medium', 'Cluster_Label_High Value Loyal', 'Cluster_Label_Low Engagement', 'Cluster_Label_New Customers']
+2026-02-23 21:11:36,450 - __main__ - INFO - Step 6: Training Churn Prediction Models
+2026-02-23 21:12:03,527 - __main__ - INFO - Step 7: Financial Impact Simulation
+2026-02-23 21:12:03,528 - __main__ - INFO - Best Model: Logistic Regression
+2026-02-23 21:12:03,548 - __main__ - INFO - Step 8: Generating Recommendations
+2026-02-23 21:12:03,556 - __main__ - INFO - Step 9: Production Readiness - Code is modular and logged.
+2026-02-23 21:12:03,558 - __main__ - INFO - Step 10: Executive Summary
+2026-02-23 21:20:31,999 - __main__ - INFO - Starting Customer Segmentation & Churn Risk Modeling System
+2026-02-23 21:20:32,001 - __main__ - INFO - Step 1: Loading and Validating Data
+2026-02-23 21:20:32,111 - __main__ - INFO - Step 2: Cleaning Data
+2026-02-23 21:20:32,117 - __main__ - INFO - Step 3: Feature Engineering
+2026-02-23 21:20:32,268 - __main__ - INFO - Step 4: Customer Segmentation
+2026-02-23 21:20:32,602 - __main__ - INFO - Step 5: Encoding Data for Modeling
+2026-02-23 21:20:32,643 - __main__ - INFO - Columns after encoding: ['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'PaperlessBilling', 'MonthlyCharges', 'TotalCharges', 'Churn', 'EngagementScore', 'RecencyProxy', 'RevenueIntensity', 'ContractRiskScore', 'EstimatedCLV', 'Cluster', 'MultipleLines_No phone service', 'MultipleLines_Yes', 'InternetService_Fiber optic', 'InternetService_No', 'OnlineSecurity_No internet service', 'OnlineSecurity_Yes', 'OnlineBackup_No internet service', 'OnlineBackup_Yes', 'DeviceProtection_No internet service', 'DeviceProtection_Yes', 'TechSupport_No internet service', 'TechSupport_Yes', 'StreamingTV_No internet service', 'StreamingTV_Yes', 'StreamingMovies_No internet service', 'StreamingMovies_Yes', 'Contract_One year', 'Contract_Two year', 'PaymentMethod_Credit card (automatic)', 'PaymentMethod_Electronic check', 'PaymentMethod_Mailed check', 'CustomerValueSegment_Low', 'CustomerValueSegment_Medium', 'Cluster_Label_High Value Loyal', 'Cluster_Label_Low Engagement', 'Cluster_Label_New Customers']
+2026-02-23 21:20:32,644 - __main__ - INFO - Step 6: Training Churn Prediction Models
+2026-02-23 21:20:39,148 - __main__ - INFO - Step 7: Financial Impact Simulation
+2026-02-23 21:20:39,148 - __main__ - INFO - Best Model: Logistic Regression
+2026-02-23 21:20:39,156 - __main__ - INFO - Step 8: Generating Recommendations
+2026-02-23 21:20:39,158 - __main__ - INFO - Step 9: Production Readiness - Code is modular and logged.
+2026-02-23 21:20:39,158 - __main__ - INFO - Step 10: Executive Summary
+2026-02-23 21:41:27,557 - __main__ - INFO - Starting Customer Segmentation & Churn Risk Modeling System
+2026-02-23 21:41:27,560 - __main__ - INFO - Step 1: Loading and Validating Data
+2026-02-23 21:41:27,883 - __main__ - INFO - Step 2: Cleaning Data
+2026-02-23 21:41:27,912 - __main__ - INFO - Step 3: Feature Engineering
+2026-02-23 21:41:28,692 - __main__ - INFO - Step 4: Customer Segmentation
+2026-02-23 21:41:30,173 - __main__ - INFO - Saving segmentation artifacts...
+2026-02-23 21:41:30,193 - __main__ - INFO - Step 5: Encoding Data for Modeling
+2026-02-23 21:41:30,325 - __main__ - INFO - Columns after encoding: ['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'PaperlessBilling', 'MonthlyCharges', 'TotalCharges', 'Churn', 'EngagementScore', 'RecencyProxy', 'RevenueIntensity', 'ContractRiskScore', 'EstimatedCLV', 'Cluster', 'MultipleLines_No phone service', 'MultipleLines_Yes', 'InternetService_Fiber optic', 'InternetService_No', 'OnlineSecurity_No internet service', 'OnlineSecurity_Yes', 'OnlineBackup_No internet service', 'OnlineBackup_Yes', 'DeviceProtection_No internet service', 'DeviceProtection_Yes', 'TechSupport_No internet service', 'TechSupport_Yes', 'StreamingTV_No internet service', 'StreamingTV_Yes', 'StreamingMovies_No internet service', 'StreamingMovies_Yes', 'Contract_One year', 'Contract_Two year', 'PaymentMethod_Credit card (automatic)', 'PaymentMethod_Electronic check', 'PaymentMethod_Mailed check', 'CustomerValueSegment_Low', 'CustomerValueSegment_Medium', 'Cluster_Label_High Value Loyal', 'Cluster_Label_Low Engagement', 'Cluster_Label_New Customers']
+2026-02-23 21:41:30,334 - __main__ - INFO - Step 6: Training Churn Prediction Models
+2026-02-23 21:41:57,518 - __main__ - INFO - Step 7: Financial Impact Simulation
+2026-02-23 21:41:57,518 - __main__ - INFO - Best Model: Logistic Regression
+2026-02-23 21:41:57,518 - __main__ - INFO - Saving best model (Logistic Regression)...
+2026-02-23 21:41:57,529 - __main__ - INFO - Step 8: Generating Recommendations
+2026-02-23 21:41:57,532 - __main__ - INFO - Step 9: Production Readiness - Code is modular and logged.
+2026-02-23 21:41:57,532 - __main__ - INFO - Step 10: Executive Summary
+2026-02-24 01:45:34,414 - __main__ - INFO - Starting Customer Segmentation & Churn Risk Modeling System
+2026-02-24 01:45:34,415 - __main__ - INFO - Step 1: Loading and Validating Data
+2026-02-24 01:45:34,608 - __main__ - INFO - Step 2: Cleaning Data
+2026-02-24 01:45:34,618 - __main__ - INFO - Step 3: Feature Engineering
+2026-02-24 01:45:34,834 - __main__ - INFO - Step 4: Customer Segmentation
+2026-02-24 01:45:35,544 - __main__ - INFO - Saving segmentation artifacts...
+2026-02-24 01:45:35,549 - __main__ - INFO - Step 5: Encoding Data for Modeling
+2026-02-24 01:45:35,608 - __main__ - INFO - Columns after encoding: ['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure', 'PhoneService', 'PaperlessBilling', 'MonthlyCharges', 'TotalCharges', 'Churn', 'EngagementScore', 'RecencyProxy', 'RevenueIntensity', 'ContractRiskScore', 'EstimatedCLV', 'Cluster', 'MultipleLines_No phone service', 'MultipleLines_Yes', 'InternetService_Fiber optic', 'InternetService_No', 'OnlineSecurity_No internet service', 'OnlineSecurity_Yes', 'OnlineBackup_No internet service', 'OnlineBackup_Yes', 'DeviceProtection_No internet service', 'DeviceProtection_Yes', 'TechSupport_No internet service', 'TechSupport_Yes', 'StreamingTV_No internet service', 'StreamingTV_Yes', 'StreamingMovies_No internet service', 'StreamingMovies_Yes', 'Contract_One year', 'Contract_Two year', 'PaymentMethod_Credit card (automatic)', 'PaymentMethod_Electronic check', 'PaymentMethod_Mailed check', 'CustomerValueSegment_Low', 'CustomerValueSegment_Medium', 'Cluster_Label_High Value Loyal', 'Cluster_Label_Low Engagement', 'Cluster_Label_New Customers']
+2026-02-24 01:45:35,611 - __main__ - INFO - Step 6: Training Churn Prediction Models
+2026-02-24 01:45:46,027 - __main__ - INFO - Step 7: Financial Impact Simulation
+2026-02-24 01:45:46,028 - __main__ - INFO - Best Model: Logistic Regression
+2026-02-24 01:45:46,029 - __main__ - INFO - Saving best model (Logistic Regression)...
+2026-02-24 01:45:46,046 - __main__ - INFO - Step 8: Generating Recommendations
+2026-02-24 01:45:46,049 - __main__ - INFO - Step 9: Production Readiness - Code is modular and logged.
+2026-02-24 01:45:46,049 - __main__ - INFO - Step 10: Executive Summary
