@@ -1,6 +1,6 @@
 # Telecom Customer Intelligence Platform (Pro v2.0)
 
-## 🌐 Live Demo
+## Live Demo :
 
 [https://telecom-churn-intelligence-platform.streamlit.app/](https://telecom-churn-intelligence-platform.streamlit.app/)
 
