@@ -1,4 +1,4 @@
-# 📡 Telecom Customer Intelligence Platform (Pro v2.0)
+# Telecom Customer Intelligence Platform (Pro v2.0)
 
 ## 🌐 Live Demo
 
